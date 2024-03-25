@@ -13,3 +13,7 @@ void input(){
 float Penjumlahan(float a, float b){
     return a + b;
 }
+
+float Pengurangan(float a, float b){
+    return a - b;
+}
