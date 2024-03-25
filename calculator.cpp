@@ -25,3 +25,7 @@ float Perkalian(float a, float b){
 float Pembagian(float a, float b){
     return a / b;
 }
+
+int main(){
+    int pilihan;
+}
