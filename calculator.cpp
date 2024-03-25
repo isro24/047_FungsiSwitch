@@ -6,7 +6,7 @@ int bilSatu, bilDua;
 void input(){
     cout << "Masukkan Bilangan Pertama : ";
     cin >> bilSatu;
-    cout << "Masukkan Bilangan Kedua";
+    cout << "Masukkan Bilangan Kedua : ";
     cin >> bilDua;
 }
 
@@ -65,5 +65,5 @@ int main(){
             break;
         }
 
-    }while()
+    }while(pilihan != 5 );
 }
