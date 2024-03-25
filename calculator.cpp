@@ -17,3 +17,7 @@ float Penjumlahan(float a, float b){
 float Pengurangan(float a, float b){
     return a - b;
 }
+
+float Perkalian(float a, float b){
+    return a * b;
+}
