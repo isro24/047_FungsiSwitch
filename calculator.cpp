@@ -10,3 +10,6 @@ void input(){
     cin >> bilDua;
 }
 
+float Penjumlahan(float a, float b){
+    return a + b;
+}
