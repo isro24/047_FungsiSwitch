@@ -21,3 +21,7 @@ float Pengurangan(float a, float b){
 float Perkalian(float a, float b){
     return a * b;
 }
+
+float Pembagian(float a, float b){
+    return a / b;
+}
